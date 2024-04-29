@@ -16,5 +16,9 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        public void SayHi()
+        {
+            Console.WriteLine("Assalomu alaykum");
+        }
     }
 }
